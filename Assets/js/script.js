@@ -1,0 +1,3 @@
+
+var searchCity
+var apiKey
