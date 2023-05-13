@@ -25,7 +25,7 @@ THEN I am again presented with current and future conditions for that city
 
 ## Mock-Up
 
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions](./assets/images/Screenshot.png)
+![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions](./assets/Screenshot.png)
 
 ## Web Link
 https://alexeflorin.github.io/Weather_Dashboard/
